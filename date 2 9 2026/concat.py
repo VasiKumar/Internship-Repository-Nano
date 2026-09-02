@@ -14,3 +14,8 @@ print(f"My age is {agee}")
 txt = f"My age is {agee}"
 
 print(txt)
+
+
+price = 50
+text = f"This product price us {price} rupee"
+print(text)

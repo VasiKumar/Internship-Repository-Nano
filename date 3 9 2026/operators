@@ -4,3 +4,4 @@ Types of operators-
 2)comparison- (<,>,<=,>=,==,!=)
 3)assignment- (=,+=,-=,*=, /=, %=)
 4)Logical-    (and, or, not)
+5)Bitwise-

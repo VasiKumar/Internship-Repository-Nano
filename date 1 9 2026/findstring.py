@@ -1,3 +1,5 @@
+#Membership operator
+
 string = "nanocloud"
 
 print("l" in string) 

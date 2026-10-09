@@ -1,0 +1,15 @@
+list= [5,6,7,4]
+list.append(8)
+print("appended ",list)
+list.sort()
+print("Sorted ",list)
+list.sort(reverse=True)
+print("reversed ", list)
+list.reverse()
+print("reversed ", list)
+list.insert(3,5) # first index then value
+print("Inserted", list)
+list.remove(5)
+print("Removed",list)
+list.pop(1)
+print("Popped ",list)

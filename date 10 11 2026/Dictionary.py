@@ -5,4 +5,7 @@ Student={
     "College city":"BBSR"
 }
 
+#printing element from dictionary:-
+
 print(Student["city"])
+

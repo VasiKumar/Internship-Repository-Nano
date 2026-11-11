@@ -9,3 +9,5 @@ Student={
 
 print(Student["city"])
 
+Student["branch"]="EEE"
+print(Student["branch"])

@@ -18,3 +18,6 @@ print(student.keys())
 student.update({"branch":"EEE", "roll":55})
 print(student.keys())
 
+print(student.get("name"))
+
+print(student["cityssssss"])
